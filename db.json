@@ -1,0 +1,35 @@
+{
+  "users": [
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "image": "https://codeopinion.com/wp-content/uploads/2017/02/group-of-members-users-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "image": "https://icon-library.com/images/icon-users/icon-users-13.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "image": "https://www.intelizon.com/wp-content/uploads/2019/10/users-vector-icon-png_260862.jpg"
+  }
+],
+
+  "posts": [
+    { "id": 1, "title": "Post 1", "body": "Body1", "userId": 1},
+    { "id": 2, "title": "Post 2", "body": "Body2", "userId": 2},
+    { "id": 3, "title": "Post 3", "body": "Body3", "userId": 3}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
